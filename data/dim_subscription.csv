@@ -1,0 +1,5 @@
+subscription_type,subscription_flag
+Free,0
+Family,1
+Premium,1
+Student,1
