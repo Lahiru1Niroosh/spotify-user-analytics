@@ -1,6 +1,6 @@
 # 🎧 Spotify User Analytics Dashboard
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.jpg)
 
 ## 🌟 Project Overview
 
